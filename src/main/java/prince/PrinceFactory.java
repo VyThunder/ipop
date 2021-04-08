@@ -14,6 +14,7 @@ import com.almasb.fxgl.physics.box2d.dynamics.BodyType;
 
 public class PrinceFactory implements EntityFactory {
 
+    //Haal deze nuller niet weg, als je dit doet dan load hij geen @spawns meer.//
     @Spawns("")
     public Entity nuller(SpawnData data) {
         return new Entity();
