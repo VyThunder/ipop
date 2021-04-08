@@ -1,3 +1,3 @@
 public enum EntityType {
-    PLAYER, TOOLS, goodPOTIONS, badPOTIONS,
+    PLAYER, TOOLS, goodPOTIONS, badPOTIONS, PLATFORM
 }

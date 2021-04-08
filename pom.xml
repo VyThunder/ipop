@@ -19,7 +19,7 @@
             <artifactId>fxgl</artifactId>
             <version>11.14</version>
         </dependency>
-    </dependencies>
+       </dependencies>
 
     <build>
         <plugins>
